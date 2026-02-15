@@ -64,9 +64,6 @@ El dataset contiene las siguientes columnas:
 -  Base preparada para cálculo de KPIs
 -  Validación de integridad completada
 
-## Cómo ejecutar
-```bash
-```
 
 ## Aprendizajes clave
 
